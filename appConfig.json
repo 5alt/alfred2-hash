@@ -89,6 +89,30 @@
 			"cmd": "Crc32",
 			"title": "Crc32",
 			"subtitle": "Calculate the Crc32 hash of a string"
+		},
+		{
+			"id": "bin2hex",
+			"cmd": "bin2hex",
+			"title": "bin2hex",
+			"subtitle": "Calculate bin2hex"
+		},
+		{
+			"id": "hex2bin",
+			"cmd": "hex2bin",
+			"title": "hex2bin",
+			"subtitle": "Calculate hex2bin"
+		},
+		{
+			"id": "urlencode",
+			"cmd": "urlencode",
+			"title": "urlencode",
+			"subtitle": "Urlencode"
+		},
+		{
+			"id": "urldecode",
+			"cmd": "urldecode",
+			"title": "urldecode",
+			"subtitle": "Urldecode"
 		}
 	]
 }

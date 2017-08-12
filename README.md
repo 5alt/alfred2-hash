@@ -15,7 +15,7 @@ Installation
 Instructions
 ----------------
 
-### String-based hashing
+### String-based hashing and encoding
 
 - md5 `<string>`
 - sha1 `<string>`
@@ -26,6 +26,10 @@ Instructions
 - whirlpool `<string>`
 - base64_decode `<string>`
 - base64_encode `<string>`
+- hex2bin `<string>`
+- bin2hex `<string>`
+- urlencode `<string>`
+- urldecode `<string>`
 
 ![Test String](http://f.cl.ly/items/13460c0l1P2h2a2j1l2C/Screen%20Shot%202015-01-06%20at%209.24.04%20AM.png)
 
